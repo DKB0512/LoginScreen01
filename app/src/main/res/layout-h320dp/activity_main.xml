@@ -42,7 +42,7 @@
         android:textColor="@color/black"
         android:padding="11dp"
         android:hint="E-Mail"
-        android:textColorHint="@color/semi_Black"
+        android:textColorHint="@color/HintColor"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
@@ -57,7 +57,7 @@
         android:background="@drawable/edittext_style"
         android:textColor="@color/black"
         android:hint="Password"
-        android:textColorHint="@color/semi_Black"
+        android:textColorHint="@color/HintColor"
         android:ems="10"
         android:padding="11dp"
         android:inputType="textPassword"
